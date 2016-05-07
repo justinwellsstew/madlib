@@ -1,0 +1,10 @@
+#container {
+	width:80%;
+	margin:auto;
+}
+.column {
+	float:left;
+	width: 30%;
+	padding: 1%;
+	text-align: center;
+}
